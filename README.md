@@ -1,5 +1,5 @@
 # Resolução de Sistema de Congruências
-Bem-vindo ao projeto "Resolução de Sistema de Congruências"! Este é um programa em Python que utiliza o Teorema Chinês do Resto para resolver sistemas de congruências lineares. 
+Bem-vindo ao projeto "Resolução de Sistema de Congruências", Este é um programa em Python que utiliza o Teorema Chinês do Resto para resolver sistemas de congruências lineares. 
 
 # Instalações Necessárias
 Certifique-se de ter as seguintes bibliotecas Python instaladas antes de executar o programa:
