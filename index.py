@@ -34,12 +34,11 @@ def resolver_sistema_congruencias(congruencias):
 
     return teorema_chines_do_resto(congruencias)
 
-def atualizar_listbox(listbox, congruencias):
+def update_listbox(listbox, congruencias):
     listbox.delete(0, tk.END)
     for ai, mi in congruencias:
         listbox.insert(tk.END, f'{ai} (mod {mi})')
 
-# Função para criar a interface gráfica
 def criar_interface():
     layout = [
         [sg.Text('Informe as congruências')],
@@ -68,7 +67,7 @@ def criar_interface():
                 m = int(values['m'])
                 congruencias.append((a, m))
                 listbox_elem.update(visible=True)
-                atualizar_listbox(listbox_elem.Widget, congruencias)
+                update_listbox(listbox_elem.Widget, congruencias)
                 window['a'].update('')
                 window['m'].update('')
             except ValueError:
@@ -84,7 +83,7 @@ def criar_interface():
         elif event == 'Limpar':
             congruencias = []
             listbox_elem.update(visible=False)
-            atualizar_listbox(listbox_elem.Widget, congruencias)
+            update_listbox(listbox_elem.Widget, congruencias)
             window['resultado'].update('')
             window['a'].update('')
             window['m'].update('')
