@@ -42,6 +42,8 @@ Para instalar as bibliotecas necessárias, utilize os seguintes comandos:
 Certifique-se de digitar apenas números inteiros para os coeficientes lineares (a) e módulos (m).
 Se ocorrer um erro, uma mensagem de erro será exibida na tela.
 
+Por motivos de tamanho de arquivo não pude adicionar o main.py compilado em formato executavel .exe
+
 # Contribuições
 Se você quiser contribuir para este projeto, sinta-se à vontade para enviar um pull request. Ficamos felizes com sugestões e melhorias!
 
