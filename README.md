@@ -38,6 +38,14 @@ Para instalar as bibliotecas necessárias, utilize os seguintes comandos:
    - Clique em "Limpar" para reiniciar e limpar todas as congruências.
    - A lista de congruências será ocultada, e o resultado será apagado.
 
+# Imagens de Demonstração
+
+<p float="left">
+  <img src="imagens/tela1.png" width="300" />
+  <img src="imagens/tela2.png" width="300" />
+</p>
+
+
 # Observações
 Certifique-se de digitar apenas números inteiros para os coeficientes lineares (a) e módulos (m).
 Se ocorrer um erro, uma mensagem de erro será exibida na tela.
