@@ -58,4 +58,6 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para enviar um
 # Autor
 Este programa foi criado por Alex Pablo.
 
+Curso de Sistemas de Informação - UNEMAT.
+
 Esperamos que este programa seja útil para resolver sistemas de congruências de forma eficiente!
