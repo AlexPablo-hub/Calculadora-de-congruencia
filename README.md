@@ -55,9 +55,12 @@ Por motivos de tamanho de arquivo não pude adicionar o main.py compilado em for
 # Contribuições
 Se você quiser contribuir para este projeto, sinta-se à vontade para enviar um pull request. Ficamos felizes com sugestões e melhorias!
 
-# Autor
-Este programa foi criado por Alex Pablo.
+## 👨‍💻 Desenvolvedor
 
-Curso de Sistemas de Informação - UNEMAT.
+Este projeto foi desenvolvido por **Alex Pablo de Oliveira Moraes**. 
 
-Esperamos que este programa seja útil para resolver sistemas de congruências de forma eficiente!
+Sou estudante de **Sistemas de Informação** na **UNEMAT**, apaixonado por tecnologia, programação e segurança de redes e tecnologias relacionadas ao desenvolvimento backend e segurança da informação.
+
+Você pode me encontrar nas redes sociais ou conferir meus outros projetos no meu perfil [GitHub](https://github.com/AlexPablo-hub).
+
+Se tiver alguma dúvida ou sugestão sobre o projeto, fique à vontade para entrar em contato!
